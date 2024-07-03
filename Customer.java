@@ -3,7 +3,8 @@ package newbank.server;
 import java.util.ArrayList;
 
 public class Customer {
-	
+
+	// Test Commit
 	private ArrayList<Account> accounts;
 	
 	public Customer() {
